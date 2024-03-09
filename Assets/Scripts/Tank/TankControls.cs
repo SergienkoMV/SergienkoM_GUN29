@@ -143,7 +143,7 @@ namespace Tanks
             ""bindings"": [
                 {
                     ""name"": """",
-                    ""id"": ""287d9697-4a1c-4536-9695-2fd1e034256e"",
+                    ""id"": ""a65a645d-5065-4b2f-8a84-54acb8b29dbe"",
                     ""path"": ""<Keyboard>/e"",
                     ""interactions"": """",
                     ""processors"": """",
@@ -165,7 +165,7 @@ namespace Tanks
                 },
                 {
                     ""name"": """",
-                    ""id"": ""68326734-d5c9-47d8-9ce7-6026d2c85538"",
+                    ""id"": ""90e133f6-2f68-40b3-bae1-078c2ce8c55a"",
                     ""path"": ""<Mouse>/delta"",
                     ""interactions"": """",
                     ""processors"": """",
